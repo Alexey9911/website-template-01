@@ -15,7 +15,7 @@ A modern, animated portfolio website template featuring smooth scrolling, GSAP a
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo on Vercel](https://your-repo-name.vercel.app)**
+🔗 **[View Live Demo on Vercel](https://website-template-01-45zhy8yqo-alexey9911s-projects.vercel.app)**
 
 ## 🛠️ Tech Stack
 
@@ -30,8 +30,8 @@ A modern, animated portfolio website template featuring smooth scrolling, GSAP a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/USER/REPO.git
-cd REPO
+git clone https://github.com/Alexey9911/website-template-01.git
+cd website-template-01
 ```
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ npm run build
 ### Deploy to Vercel (Recommended)
 
 **One-click deploy:**
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/USER/REPO)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Alexey9911/website-template-01)
 
 **Or manually:**
 1. Push to GitHub
