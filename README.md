@@ -15,7 +15,7 @@ A modern, animated portfolio website template featuring smooth scrolling, GSAP a
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo on Vercel](https://website-template-01-45zhy8yqo-alexey9911s-projects.vercel.app)**
+🔗 **[View Live Demo on Vercel](https://website-template-01.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
